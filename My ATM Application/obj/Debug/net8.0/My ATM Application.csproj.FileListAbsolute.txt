@@ -1,0 +1,31 @@
+D:\.2Backend\trainning\My ATM Application\My ATM Application\bin\Debug\net8.0\My ATM Application.exe
+D:\.2Backend\trainning\My ATM Application\My ATM Application\bin\Debug\net8.0\My ATM Application.deps.json
+D:\.2Backend\trainning\My ATM Application\My ATM Application\bin\Debug\net8.0\My ATM Application.runtimeconfig.json
+D:\.2Backend\trainning\My ATM Application\My ATM Application\bin\Debug\net8.0\My ATM Application.dll
+D:\.2Backend\trainning\My ATM Application\My ATM Application\bin\Debug\net8.0\My ATM Application.pdb
+D:\.2Backend\trainning\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\.2Backend\trainning\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.AssemblyInfoInputs.cache
+D:\.2Backend\trainning\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.AssemblyInfo.cs
+D:\.2Backend\trainning\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.csproj.CoreCompileInputs.cache
+D:\.2Backend\trainning\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.dll
+D:\.2Backend\trainning\My ATM Application\My ATM Application\obj\Debug\net8.0\refint\My ATM Application.dll
+D:\.2Backend\trainning\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.pdb
+D:\.2Backend\trainning\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.genruntimeconfig.cache
+D:\.2Backend\trainning\My ATM Application\My ATM Application\obj\Debug\net8.0\ref\My ATM Application.dll
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\bin\Debug\net8.0\My ATM Application.exe
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\bin\Debug\net8.0\My ATM Application.deps.json
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\bin\Debug\net8.0\My ATM Application.runtimeconfig.json
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\bin\Debug\net8.0\My ATM Application.dll
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\bin\Debug\net8.0\My ATM Application.pdb
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.AssemblyInfoInputs.cache
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.AssemblyInfo.cs
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.csproj.CoreCompileInputs.cache
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.dll
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\obj\Debug\net8.0\refint\My ATM Application.dll
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.pdb
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.genruntimeconfig.cache
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\obj\Debug\net8.0\ref\My ATM Application.dll
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\bin\Debug\net8.0\ConsoleTables.dll
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.csproj.AssemblyReference.cache
+D:\.2Backend\.Net form ITI\My ATM Application\My ATM Application\obj\Debug\net8.0\My ATM Application.csproj.CopyComplete
