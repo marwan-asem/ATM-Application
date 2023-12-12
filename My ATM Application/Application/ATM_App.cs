@@ -293,7 +293,7 @@ namespace My_ATM_Application.Application
             _amount %= 200;
             int OneHundedPound = (_amount) / 100;
             _amount %= 100;
-            int FitiyPound = _amount / 100;
+            int FitiyPound = _amount / 50;
             Console.WriteLine("\nSummary");
             Console.WriteLine("-------------");
             Console.WriteLine($"{AppScreen.cur}200 X {TwoHundredPound} = {200 * TwoHundredPound}");
